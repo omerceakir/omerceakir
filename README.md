@@ -1,16 +1,26 @@
-## Hi there 👋
+## Merhaba, ben Ömer 👋
 
-<!--
-**omerceakir/omerceakir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Yazılım Geliştirici & Sistem Yöneticisi**
 
-Here are some ideas to get you started:
+Yazılım geliştirme ve sistem yönetimi alanlarında çalışıyor, altyapıyı ve otomasyonu birlikte düşünmeyi seviyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Yazılım Geliştirme
+- C# / .NET
+- Konsol ve masaüstü uygulamaları
+- Git & GitHub
+
+### 🖥️ Sistem Yönetimi
+- Windows Server & Active Directory
+- Linux (Ubuntu / Debian) & Bash
+- Ağ yönetimi (TCP/IP, DNS, DHCP)
+- PowerShell ile otomasyon
+- Sanallaştırma (Hyper-V / VirtualBox)
+- Yedekleme, izleme ve sorun giderme
+
+### 📚 Öğrendiklerim
+- Docker ve konteyner teknolojileri
+- CI/CD ve DevOps pratikleri
+- Python ile scripting
+
+### 📫 İletişim
+GitHub üzerinden bana ulaşabilirsiniz.
