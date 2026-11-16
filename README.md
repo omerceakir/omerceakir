@@ -28,6 +28,3 @@ GitHub üzerinden bana ulaşabilirsiniz.
 
 ### 🧰 Teknolojiler
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 📊 GitHub İstatistikleri
-![GitHub istatistikleri](https://github-readme-stats.vercel.app/api?username=omerceakir&show_icons=true&theme=dark&hide_border=true) ![En çok kullanılan diller](https://github-readme-stats.vercel.app/api/top-langs/?username=omerceakir&layout=compact&theme=dark&hide_border=true)
