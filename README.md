@@ -2,7 +2,7 @@
 
 **Yazılım Geliştirici & Sistem Yöneticisi**
 
-Yazılım geliştirme ve sistem yönetimi alanlarında çalışıyor, altyapıyı ve otomasyonu birlikte düşünmeyi seviyorum.
+Yazılım geliştirme ve sistem yönetimi alanlarında çalışıyor, sistemleri kurmayı ve işleri otomatikleştirmeyi seviyorum.
 
 ### 🛠️ Yazılım Geliştirme
 - C# / .NET
